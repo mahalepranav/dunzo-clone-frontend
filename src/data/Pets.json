@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Whiskas Kat Food",
+        "description":"1.1 kg",
+        "price":"475",
+        "img":"/assets/images/pet1.jpeg"
+    },
+
+    {
+        "name":"Whiskas Sheba Kat Food",
+        "description":"35 gms",
+        "price":"50",
+        "img":"/assets/images/pet2.jpeg"
+    },
+
+    {
+        "name":"Pedigree Puppy Dog Food",
+        "description":"1 kg",
+        "price":"220",
+        "img":"/assets/images/pet3.jpeg"
+    },
+
+    {
+        "name":"Pedigree Adult Dog Food",
+        "description":"1 kg",
+        "price":"280",
+        "img":"/assets/images/pet4.jpeg"
+    },
+
+    {
+        "name":"Pedigree Puppy chunks Gravy",
+        "description":"70 gms",
+        "price":"50",
+        "img":"/assets/images/pet5.jpeg"
+    },
+
+    {
+        "name":"Pedigree Biscrok With Chicken",
+        "description":"900 gms",
+        "price":"300",
+        "img":"/assets/images/pet6.jpeg"
+    },
+
+    {
+        "name":"Pedigree Jumbone Adult Treat",
+        "description":"200 gms",
+        "price":"130",
+        "img":"/assets/images/pet7.jpeg"
+    },
+
+    {
+        "name":"Pedigree Dental Care Dentastix",
+        "description":"110 gms",
+        "price":"160",
+        "img":"/assets/images/pet8.jpeg"
+    }
+
+]

@@ -1,0 +1,59 @@
+[
+
+    {
+        "fruitstorename":"Bhawani Fruits & Vegetables",
+        "address":"Baner",
+        "distance":"14.6km",
+        "img":"/assets/images/fruitpic1.jpg"
+    },
+    {
+        
+        "fruitstorename":"Patel Vegetables & Fruits",
+        "address":"Pashan",
+        "distance":"17.2km",
+        "img":"/assets/images/fruitpic2.jpg"
+    },
+    {
+        
+        "fruitstorename":"Baniya Traders",
+        "address":"Wakad",
+        "distance":"7.1km",
+        "img":"/assets/images/fruitpic3.jpg"
+    },
+    {
+        
+        "fruitstorename":"Kumar Fruits & Vegetables",
+        "address":"Hadapsar",
+        "distance":"24.2km",
+        "img":"/assets/images/fruitpic4.jpg"
+    },
+    {
+        
+        "fruitstorename":"Agarwal Fruits & Vegetables",
+        "address":"Pimpri",
+        "distance":"5.4km",
+        "img":"/assets/images/fruitpic5.jpg"
+    },
+    {
+        
+        "fruitstorename":"Saykar Vegetable Suppliers",
+        "address":"Shivajinagar",
+        "distance":"20km",
+        "img":"/assets/images/fruitpic6.jpg"
+    },
+    {
+        
+        "fruitstorename":"Pooja Fruits & Vegetables",
+        "address":"Baner",
+        "distance":"17.5km",
+        "img":"/assets/images/fruitpic7.jpg"
+    },
+    {
+        
+        "fruitstorename":"Soham Fruits & Vegetables",
+        "address":"Viman Nagar",
+        "distance":"28.5km",
+        "img":"/assets/images/fruitpic8.jpg"
+    }
+
+]

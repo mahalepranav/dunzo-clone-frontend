@@ -1,0 +1,59 @@
+[
+
+    {
+        "petstorename":"Pets Gallery",
+        "address":"Aundh",
+        "distance":"14km",
+        "img":"/assets/images/petpic1.jpg"
+    },
+    {
+        
+        "petstorename":"Clever Pets",
+        "address":"Amanora",
+        "distance":"34.5km",
+        "img":"/assets/images/petpic2.jpg"
+    },
+    {
+        
+        "petstorename":"Pet Universe",
+        "address":"Rahatni",
+        "distance":"9.4km",
+        "img":"/assets/images/petpic3.jpg"
+    },
+    {
+        
+        "petstorename":"Pawsh Pets",
+        "address":"Baner",
+        "distance":"10.1km",
+        "img":"/assets/images/petpic4.jpg"
+    },
+    {
+        
+        "petstorename":"Sam Pet Shop",
+        "address":"Pimpri",
+        "distance":"5.5km",
+        "img":"/assets/images/petpic5.jpg"
+    },
+    {
+        
+        "petstorename":"Ronny Pets Gallery",
+        "address":"Chinchwad",
+        "distance":"4.8km",
+        "img":"/assets/images/petpic6.jpg"
+    },
+    {
+        
+        "petstorename":"George Pets",
+        "address":"Kalewadi",
+        "distance":"9.5km",
+        "img":"/assets/images/petpic7.jpg"
+    },
+    {
+        
+        "petstorename":"ADY's Pet Shop",
+        "address":"Shivajinagar",
+        "distance":"22.6km",
+        "img":"/assets/images/petpic8.jpg"
+    }
+
+]

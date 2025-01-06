@@ -1,0 +1,59 @@
+[
+
+    {
+        "storename":"Food Junction",
+        "address":"Decaan Gymkkhana",
+        "distance":"20.8km",
+        "img":"/assets/images/pic1.jpg"
+    },
+    {
+        
+        "storename":"Food Store",
+        "address":"Ravet",
+        "distance":"3km",
+        "img":"/assets/images/pic2.jpg"
+    },
+    {
+        
+        "storename":"Sisodiya and Sons",
+        "address":"Pradhikaran Akurdi",
+        "distance":"5.1km",
+        "img":"/assets/images/pic3.jpg"
+    },
+    {
+        
+        "storename":"Prakash Mart",
+        "address":"Chinchwad",
+        "distance":"4km",
+        "img":"/assets/images/pic4.jpg"
+    },
+    {
+        
+        "storename":"Agarwal Store",
+        "address":"Pimpri",
+        "distance":"4.8km",
+        "img":"/assets/images/pic5.png"
+    },
+    {
+        
+        "storename":"Tulsidas",
+        "address":"Pimpri",
+        "distance":"4.5km",
+        "img":"/assets/images/pic6.png"
+    },
+    {
+        
+        "storename":"GM Store",
+        "address":"Shivajinagar",
+        "distance":"19.5km",
+        "img":"/assets/images/pic7.jpg"
+    },
+    {
+        
+        "storename":"Ratnadeep Supermarket",
+        "address":"Indiranagar",
+        "distance":"25.5km",
+        "img":"/assets/images/pic8.jpg"
+    }
+
+]

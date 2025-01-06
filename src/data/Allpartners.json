@@ -1,0 +1,37 @@
+[
+    {
+        "imgtitle":"You're in charge",
+        "description":"There is no one to report to, you are your own boss",
+        "img":"/assets/images/part1.png"
+    },
+
+    {
+        "imgtitle":"You pick the time",
+        "description":"Log in and log out anytime you want. We are live 24x7",
+        "img":"/assets/images/part2.png"
+    }, 
+    
+    {
+        "imgtitle":"Your ride, your city",
+        "description":"All deliveries will be made within city limits",
+        "img":"/assets/images/part3.png"
+    }, 
+    
+    {
+        "imgtitle":"Earn as you go",
+        "description":"We offer one of the best compensations in the market",
+        "img":"/assets/images/part4.png"
+    }, 
+    
+    {
+        "imgtitle":"You’ll be far from bored",
+        "description":"Run different orders ranging from deliveries to rides",
+        "img":"/assets/images/part5.png"
+    },
+
+    {
+        "imgtitle":"Join the movement",
+        "description":"Be a part of the fastest growing delivery startup",
+        "img":"/assets/images/part6.png"
+    }
+]

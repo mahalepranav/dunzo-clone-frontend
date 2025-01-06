@@ -1,0 +1,422 @@
+[
+    {
+        "vegefruitname":"Apple",
+        "description":"1 kg",
+        "price":"200",
+        "img":"http://localhost:3000/assets/images/vegefruitpic1.jpeg"
+    },
+
+    {
+        "vegefruitname":"Orange",
+        "description":"1 kg",
+        "price":"229",
+        "img":"http://localhost:3000/assets/images/vegefruitpic2.jpeg"
+    },
+
+    {
+        "vegefruitname":"Banana",
+        "description":"12 pcs",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic3.jpeg"
+    },
+
+    {
+        "vegefruitname":"Dragon Fruit",
+        "description":"1 kg",
+        "price":"260",
+        "img":"http://localhost:3000/assets/images/vegefruitpic4.jpeg"
+    },
+
+    {
+        "vegefruitname":"Blueberry",
+        "description":"1 pack",
+        "price":"360",
+        "img":"http://localhost:3000/assets/images/vegefruitpic5.jpeg"
+    },
+
+    {
+        "vegefruitname":"Papaya",
+        "description":"1 pc",
+        "price":"70",
+        "img":"http://localhost:3000/assets/images/vegefruitpic6.jpeg"
+    },
+
+    {
+        "vegefruitname":"Raw Papaya",
+        "description":"1 pc",
+        "price":"55",
+        "img":"http://localhost:3000/assets/images/vegefruitpic7.jpeg"
+    },
+
+    {
+        "vegefruitname":"Pear Green",
+        "description":"1 kg",
+        "price":"299",
+        "img":"http://localhost:3000/assets/images/vegefruitpic8.jpeg"
+    },
+
+    {
+        "vegefruitname":"Strawberry",
+        "description":"1 box",
+        "price":"100",
+        "img":"http://localhost:3000/assets/images/vegefruitpic9.jpeg"
+    },
+
+    {
+        "vegefruitname":"Pomegranate",
+        "description":"1 kg",
+        "price":"299",
+        "img":"http://localhost:3000/assets/images/vegefruitpic10.jpeg"
+    },
+
+    {
+        "vegefruitname":"Kiwi",
+        "description":"3 pcs",
+        "price":"179",
+        "img":"http://localhost:3000/assets/images/vegefruitpic11.jpeg"
+    },
+
+    {
+        "vegefruitname":"Avocado Raw",
+        "description":"250 gms",
+        "price":"189",
+        "img":"http://localhost:3000/assets/images/vegefruitpic12.jpeg"
+    },
+
+    {
+        "vegefruitname":"Chikoo",
+        "description":"1 kg",
+        "price":"159",
+        "img":"http://localhost:3000/assets/images/vegefruitpic13.jpeg"
+    },
+
+    {
+        "vegefruitname":"Gauva",
+        "description":"1 kg",
+        "price":"100",
+        "img":"http://localhost:3000/assets/images/vegefruitpic14.jpeg"
+    },
+
+    {
+        "vegefruitname":"Pineapple",
+        "description":"1 pc",
+        "price":"120",
+        "img":"http://localhost:3000/assets/images/vegefruitpic15.jpeg"
+    },
+
+    {
+        "vegefruitname":"Muskmelon",
+        "description":"1 pc",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic16.jpeg"
+    },
+
+    {
+        "vegefruitname":"Sweet Lime",
+        "description":"1 kg",
+        "price":"149",
+        "img":"http://localhost:3000/assets/images/vegefruitpic17.jpeg"
+    },
+
+    {
+        "vegefruitname":"Watermelon",
+        "description":"1 pc",
+        "price":"80",
+        "img":"http://localhost:3000/assets/images/vegefruitpic18.jpeg"
+    },
+
+    {
+        "vegefruitname":"Tender Coconut",
+        "description":"1 pc",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic19.jpeg"
+    },
+
+    {
+        "vegefruitname":"Tomato",
+        "description":"1 kg",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic20.jpeg"
+    },
+
+    {
+        "vegefruitname":"Potato",
+        "description":"1 kg",
+        "price":"40",
+        "img":"http://localhost:3000/assets/images/vegefruitpic21.jpeg"
+    },
+
+    {
+        "vegefruitname":"Onion",
+        "description":"1 kg",
+        "price":"70",
+        "img":"http://localhost:3000/assets/images/vegefruitpic22.jpeg"
+    },
+
+    {
+        "vegefruitname":"Cucumber",
+        "description":"1 kg",
+        "price":"75",
+        "img":"http://localhost:3000/assets/images/vegefruitpic23.jpeg"
+    },
+
+    {
+        "vegefruitname":"Lemon",
+        "description":"12 pcs",
+        "price":"100",
+        "img":"http://localhost:3000/assets/images/vegefruitpic24.jpeg"
+    },
+
+    {
+        "vegefruitname":"Pumpkin",
+        "description":"1 kg",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic25.jpeg"
+    },
+
+    {
+        "vegefruitname":"Brinjal",
+        "description":"1 kg",
+        "price":"70",
+        "img":"http://localhost:3000/assets/images/vegefruitpic26.jpeg"
+    },
+
+    {
+        "vegefruitname":"Brinjal Bharta",
+        "description":"1 kg",
+        "price":"80",
+        "img":"http://localhost:3000/assets/images/vegefruitpic27.jpeg"
+    },
+
+    {
+        "vegefruitname":"Ash Gourd",
+        "description":"1 kg",
+        "price":"90",
+        "img":"http://localhost:3000/assets/images/vegefruitpic28.jpeg"
+    },
+
+    {
+        "vegefruitname":"Garlic",
+        "description":"500 gms",
+        "price":"290",
+        "img":"http://localhost:3000/assets/images/vegefruitpic29.jpeg"
+    },
+
+    {
+        "vegefruitname":"Zucchini",
+        "description":"1 kg",
+        "price":"220",
+        "img":"http://localhost:3000/assets/images/vegefruitpic30.jpeg"
+    },
+
+    {
+        "vegefruitname":"Sweet Corn",
+        "description":"4 pcs",
+        "price":"100",
+        "img":"http://localhost:3000/assets/images/vegefruitpic31.jpeg"
+    },
+
+    {
+        "vegefruitname":"Mushroom",
+        "description":"200 gms",
+        "price":"50",
+        "img":"http://localhost:3000/assets/images/vegefruitpic32.jpeg"
+    },
+
+    {
+        "vegefruitname":"Bottle Gourd",
+        "description":"1 kg",
+        "price":"80",
+        "img":"http://localhost:3000/assets/images/vegefruitpic33.jpeg"
+    },
+
+    {
+        "vegefruitname":"Carrot",
+        "description":"1 kg",
+        "price":"70",
+        "img":"http://localhost:3000/assets/images/vegefruitpic34.jpeg"
+    },
+
+    {
+        "vegefruitname":"Beetroot",
+        "description":"1 kg",
+        "price":"50",
+        "img":"http://localhost:3000/assets/images/vegefruitpic35.jpeg"
+    },
+
+    {
+        "vegefruitname":"Cauliflower",
+        "description":"1 kg",
+        "price":"80",
+        "img":"http://localhost:3000/assets/images/vegefruitpic36.jpeg"
+    },
+
+    {
+        "vegefruitname":"Cabbage",
+        "description":"1 kg",
+        "price":"49",
+        "img":"http://localhost:3000/assets/images/vegefruitpic37.jpeg"
+    },
+
+    {
+        "vegefruitname":"Radish",
+        "description":"1 bunch",
+        "price":"60",
+        "img":"http://localhost:3000/assets/images/vegefruitpic38.jpeg"
+    },
+
+    {
+        "vegefruitname":"Sweet Potato",
+        "description":"1 kg",
+        "price":"280",
+        "img":"http://localhost:3000/assets/images/vegefruitpic39.jpeg"
+    },
+
+    {
+        "vegefruitname":"Ginger",
+        "description":"500 gms",
+        "price":"100",
+        "img":"http://localhost:3000/assets/images/vegefruitpic40.jpeg"
+    },
+
+    {
+        "vegefruitname":"Capsicum",
+        "description":"1 kg",
+        "price":"120",
+        "img":"http://localhost:3000/assets/images/vegefruitpic41.jpeg"
+    },
+
+    {
+        "vegefruitname":"Tinda",
+        "description":"1 kg",
+        "price":"95",
+        "img":"http://localhost:3000/assets/images/vegefruitpic42.jpeg"
+    },
+
+    {
+        "vegefruitname":"Lady Finger",
+        "description":"1 kg",
+        "price":"120",
+        "img":"http://localhost:3000/assets/images/vegefruitpic43.jpeg"
+    },
+
+    {
+        "vegefruitname":"Ridge Gourd",
+        "description":"1 kg",
+        "price":"120",
+        "img":"http://localhost:3000/assets/images/vegefruitpic44.jpeg"
+    },
+
+    {
+        "vegefruitname":"Bitter Gourd",
+        "description":"1 kg",
+        "price":"90",
+        "img":"http://localhost:3000/assets/images/vegefruitpic45.jpeg"
+    },
+
+    {
+        "vegefruitname":"Green Chilli",
+        "description":"250 gms",
+        "price":"30",
+        "img":"http://localhost:3000/assets/images/vegefruitpic46.jpeg"
+    },
+
+    {
+        "vegefruitname":"Sponge Gourd",
+        "description":"1 kg",
+        "price":"99",
+        "img":"http://localhost:3000/assets/images/vegefruitpic47.jpeg"
+    },
+
+    {
+        "vegefruitname":"Ivy Gourd",
+        "description":"1 kg",
+        "price":"120",
+        "img":"http://localhost:3000/assets/images/vegefruitpic48.jpeg"
+    },
+
+    {
+        "vegefruitname":"Green Peas",
+        "description":"1 kg",
+        "price":"140",
+        "img":"http://localhost:3000/assets/images/vegefruitpic49.jpeg"
+    },
+
+    {
+        "vegefruitname":"Beans Cluster",
+        "description":"1 kg",
+        "price":"169",
+        "img":"http://localhost:3000/assets/images/vegefruitpic50.jpeg"
+    },
+
+    {
+        "vegefruitname":"Broccoli",
+        "description":"1 kg",
+        "price":"200",
+        "img":"http://localhost:3000/assets/images/vegefruitpic51.jpeg"
+    },
+
+    {
+        "vegefruitname":"Drumstick",
+        "description":"500 gms",
+        "price":"180",
+        "img":"http://localhost:3000/assets/images/vegefruitpic52.jpeg"
+    },
+
+    {
+        "vegefruitname":"French Beans",
+        "description":"1 kg",
+        "price":"139",
+        "img":"http://localhost:3000/assets/images/vegefruitpic53.jpeg"
+    },
+
+    {
+        "vegefruitname":"Flat Beans",
+        "description":"1 kg",
+        "price":"99",
+        "img":"http://localhost:3000/assets/images/vegefruitpic54.jpeg"
+    },
+
+    {
+        "vegefruitname":"Lemongrass",
+        "description":"1 bunch",
+        "price":"20",
+        "img":"http://localhost:3000/assets/images/vegefruitpic55.jpeg"
+    },
+
+    {
+        "vegefruitname":"Coriander",
+        "description":"1 bunch",
+        "price":"25",
+        "img":"http://localhost:3000/assets/images/vegefruitpic56.jpeg"
+    },
+
+    {
+        "vegefruitname":"Curry Leaves",
+        "description":"1 bunch",
+        "price":"20",
+        "img":"http://localhost:3000/assets/images/vegefruitpic57.jpeg"
+    },
+
+    {
+        "vegefruitname":"Mint Leaves",
+        "description":"1 bunch",
+        "price":"30",
+        "img":"http://localhost:3000/assets/images/vegefruitpic58.jpeg"
+    },
+
+    {
+        "vegefruitname":"Methi Leaves",
+        "description":"1 bunch",
+        "price":"20",
+        "img":"http://localhost:3000/assets/images/vegefruitpic59.jpeg"
+    },
+
+    {
+        "vegefruitname":"Palak",
+        "description":"1 bunch",
+        "price":"30",
+        "img":"http://localhost:3000/assets/images/vegefruitpic60.jpeg"
+    }
+    
+]

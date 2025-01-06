@@ -1,0 +1,114 @@
+[
+    {
+        "meatname":"Chicken",
+        "description":"1 kg",
+        "price":"280",
+        "img":"/assets/images/meat1.jpeg"
+    },
+
+    {
+        "meatname":"Boneless Chicken",
+        "description":"1 kg",
+        "price":"350",
+        "img":"/assets/images/meat2.jpeg"
+    },
+
+    {
+        "meatname":"Chicken Breast",
+        "description":"1 kg",
+        "price":"380",
+        "img":"/assets/images/meat3.jpeg"
+    },
+
+    {
+        "meatname":"Whole Chicken",
+        "description":"2 kg",
+        "price":"550",
+        "img":"/assets/images/meat4.jpeg"
+    },
+
+    {
+        "meatname":"Mutton",
+        "description":"1 kg",
+        "price":"1100",
+        "img":"/assets/images/meat5.jpeg"
+    },
+
+    {
+        "meatname":"Eggs",
+        "description":"6 pcs",
+        "price":"48",
+        "img":"/assets/images/meat6.jpeg"
+    },
+
+    {
+        "meatname":"katla",
+        "description":"1 kg",
+        "price":"410",
+        "img":"/assets/images/meat7.jpeg"
+    },
+
+    {
+        "meatname":"Silan Fish",
+        "description":"1 kg",
+        "price":"220",
+        "img":"/assets/images/meat8.jpeg"
+    },
+
+    {
+        "meatname":"Paplet Fish",
+        "description":"1 kg",
+        "price":"1500",
+        "img":"/assets/images/meat9.jpeg"
+    },
+    
+    {
+        "meatname":"Surmai Fish",
+        "description":"1 kg",
+        "price":"1180",
+        "img":"/assets/images/meat10.jpeg"
+    },
+    
+    {
+        "meatname":"Bombil Fish",
+        "description":"1 kg",
+        "price":"595",
+        "img":"/assets/images/meat11.jpeg"
+    },
+    
+    {
+        "meatname":"Prawns Fish",
+        "description":"1 kg",
+        "price":"980",
+        "img":"/assets/images/meat12.jpeg"
+    },
+    
+    {
+        "meatname":"Bangada Fish",
+        "description":"1 kg",
+        "price":"350",
+        "img":"/assets/images/meat13.jpeg"
+    },
+    
+    {
+        "meatname":"Black Pomfret",
+        "description":"1 kg",
+        "price":"1200",
+        "img":"/assets/images/meat14.jpeg"
+    },
+    
+    {
+        "meatname":"Roopchand Fish",
+        "description":"1 kg",
+        "price":"800",
+        "img":"/assets/images/meat15.jpeg"
+    },
+    
+    {
+        "meatname":"Rohu Fish",
+        "description":"1 kg",
+        "price":"480",
+        "img":"/assets/images/meat16.jpeg"
+    }
+    
+]

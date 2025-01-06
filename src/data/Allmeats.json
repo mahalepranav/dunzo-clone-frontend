@@ -1,0 +1,44 @@
+[
+
+    {
+        "meatstorename":"Prilicious Food",
+        "address":"Wakad",
+        "distance":"6.8km",
+        "img":"/assets/images/meatpic1.jpg"
+    },
+    {
+        
+        "meatstorename":"Amir Chicken and Fish",
+        "address":"Akurdi",
+        "distance":"4.5km",
+        "img":"/assets/images/meatpic2.jpg"
+    },
+    {
+        
+        "meatstorename":"Fish and Chicken Mart",
+        "address":"Pimple Saudagar",
+        "distance":"9.4km",
+        "img":"/assets/images/meatpic3.jpg"
+    },
+    {
+        
+        "meatstorename":"Kukud'ku Chicken and Fish",
+        "address":"Baner",
+        "distance":"7.2km",
+        "img":"/assets/images/meatpic4.jpg"
+    },
+    {
+        
+        "meatstorename":"Fresh Meat Mart",
+        "address":"Pimpri",
+        "distance":"5.1km",
+        "img":"/assets/images/meatpic5.jpg"
+    },
+    {
+        
+        "meatstorename":"Baramati Agro",
+        "address":"Kothrud",
+        "distance":"21.5km",
+        "img":"/assets/images/meatpic6.jpg"
+    }
+]

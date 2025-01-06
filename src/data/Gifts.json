@@ -1,0 +1,44 @@
+[
+    {
+        "giftname":"10 Vivid Red Roses",
+        "description":"1 Buoquet",
+        "price":"375",
+        "img":"/assets/images/gift1.jpeg"
+    },
+
+    {
+        "giftname":"10 Bright Yellow Roses",
+        "description":"1 Buoquet",
+        "price":"450",
+        "img":"/assets/images/gift2.jpeg"
+    },
+    
+    {
+        "giftname":"10 Beautiful Pink Roses",
+        "description":"1 Buoquet",
+        "price":"450",
+        "img":"/assets/images/gift3.jpeg"
+    },
+
+    {
+        "giftname":"10 Multi Colour Roses",
+        "description":"1 Buoquet",
+        "price":"425",
+        "img":"/assets/images/gift4.jpeg"
+    },
+
+    {
+        "giftname":"12 Red Roses",
+        "description":"1 Buoquet",
+        "price":"450",
+        "img":"/assets/images/gift5.jpeg"
+    },
+
+    {
+        "giftname":"10 Red & 10 Pink Roses",
+        "description":"1 Buoquet",
+        "price":"750",
+        "img":"/assets/images/gift6.jpeg"
+    }
+    
+]

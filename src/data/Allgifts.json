@@ -1,0 +1,44 @@
+[
+
+    {
+        "giftstorename":"Khushbu Shop",
+        "address":"Baner",
+        "distance":"9km",
+        "img":"/assets/images/giftpic1.jpg"
+    },
+    {
+        
+        "giftstorename":"The Beauty World",
+        "address":"Karvenagar",
+        "distance":"24km",
+        "img":"/assets/images/giftpic2.jpg"
+    },
+    {
+        
+        "giftstorename":"Prisha Florals",
+        "address":"wakad",
+        "distance":"7km",
+        "img":"/assets/images/giftpic3.jpg"
+    },
+    {
+        
+        "giftstorename":"Menaka Flowers",
+        "address":"Kasba Peth",
+        "distance":"21.3km",
+        "img":"/assets/images/giftpic4.jpg"
+    },
+    {
+        
+        "giftstorename":"Express Florals",
+        "address":"Kalewadi",
+        "distance":"8.8km",
+        "img":"/assets/images/giftpic5.jpg"
+    },
+    {
+        
+        "giftstorename":"MK Flowers",
+        "address":"Chinchwad",
+        "distance":"4km",
+        "img":"/assets/images/giftpic6.jpg"
+    }
+]

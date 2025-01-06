@@ -1,0 +1,59 @@
+[
+
+    {
+        "restaurantname":"Krishna Restaurant",
+        "address":"Ravet",
+        "distance":"2.1km",
+        "img":"/assets/images/respic1.jpg"
+    },
+    {
+        
+        "restaurantname":"Majestic Restaurant",
+        "address":"Akurdi",
+        "distance":"4km",
+        "img":"/assets/images/respic2.jpg"
+    },
+    {
+        
+        "restaurantname":"Sangrila Restaurant",
+        "address":"Pradhikaran Nigdi",
+        "distance":"7.4km",
+        "img":"/assets/images/respic3.jpg"
+    },
+    {
+        
+        "restaurantname":"Ishaara Restaurant",
+        "address":"Wakad",
+        "distance":"6km",
+        "img":"/assets/images/respic4.jpg"
+    },
+    {
+        
+        "restaurantname":"Abhinandan Restaurant",
+        "address":"Pimpri",
+        "distance":"4.8km",
+        "img":"/assets/images/respic5.jpg"
+    },
+    {
+        
+        "restaurantname":"Rose Wood Restaurant",
+        "address":"Chinchwad",
+        "distance":"4.5km",
+        "img":"/assets/images/respic6.jpg"
+    },
+    {
+        
+        "restaurantname":"George Restaurant",
+        "address":"Camp Pune",
+        "distance":"22.5km",
+        "img":"/assets/images/respic7.jpg"
+    },
+    {
+        
+        "restaurantname":"Swagat Restaurant",
+        "address":"Shivajinagar",
+        "distance":"21.3km",
+        "img":"/assets/images/respic8.jpg"
+    }
+
+]

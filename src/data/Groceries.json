@@ -1,0 +1,255 @@
+[
+    {
+        "groceryname":"Suger",
+        "description":"Pack of 1kg",
+        "price":"65",
+        "img":"/assets/images/grocerypic1.jpeg"
+    },
+
+    {
+        "groceryname":"Poha",
+        "description":"Pack of 1kg",
+        "price":"70",
+        "img":"/assets/images/grocerypic2.jpeg"
+    },
+
+    {
+        "groceryname":"Red Label Tea",
+        "description":"Pack of 500gms",
+        "price":"300",
+        "img":"/assets/images/grocerypic3.jpeg"
+    },
+    
+    {
+        "groceryname":"Tata Salt",
+        "description":"Pack of 1kg",
+        "price":"30",
+        "img":"/assets/images/grocerypic4.png"
+    },
+
+    {
+        "groceryname":"Sabudana",
+        "description":"Pack of 1kg",
+        "price":"80",
+        "img":"/assets/images/grocerypic5.png"
+    },
+
+    {
+        "groceryname":"Jeera",
+        "description":"Pack of 100gms",
+        "price":"90",
+        "img":"/assets/images/grocerypic6.png"
+    },
+
+    {
+        "groceryname":"Dawat Basmati Rice",
+        "description":"Pack of 1kg",
+        "price":"120",
+        "img":"/assets/images/grocerypic7.jpeg"
+    },
+
+    {
+        "groceryname":"Saffola Gold Edible Oil",
+        "description":"Pack of 1ltr",
+        "price":"185",
+        "img":"/assets/images/grocerypic8.png"
+    },
+
+    {
+        "groceryname":"Fortune Rice Bran Oil",
+        "description":"Pack of 1ltr",
+        "price":"170",
+        "img":"/assets/images/grocerypic9.png"
+    },
+
+    {
+        "groceryname":"Gemini Sunflower Oil",
+        "description":"Pack of 1ltr",
+        "price":"190",
+        "img":"/assets/images/grocerypic10.png"
+    },
+
+    {
+        "groceryname":"Gemini Soyabean Oil",
+        "description":"Pack of 1ltr",
+        "price":"155",
+        "img":"/assets/images/grocerypic11.png"
+    },
+
+    {
+        "groceryname":"Tata Sampann Toor Dal",
+        "description":"Pack of 1kg",
+        "price":"299",
+        "img":"/assets/images/grocerypic12.jpeg"
+    },
+
+    {
+        "groceryname":"Tata Sampann Moong Dal",
+        "description":"Pack of 500mgs",
+        "price":"110",
+        "img":"/assets/images/grocerypic13.png"
+    },
+
+    {
+        "groceryname":"Everest Coriander Powder",
+        "description":"Pack of 200mgs",
+        "price":"84",
+        "img":"/assets/images/grocerypic14.png"
+    },
+
+    {
+        "groceryname":"Everest Hingraj Powder",
+        "description":"Pack of 50gms",
+        "price":"143",
+        "img":"/assets/images/grocerypic15.png"
+    },
+
+    {
+        "groceryname":"Amul Pure Ghee Tin",
+        "description":"Pack of 1ltr",
+        "price":"650",
+        "img":"/assets/images/grocerypic16.png"
+    },
+
+    {
+        "groceryname":"Gowardhan Ghee Jar",
+        "description":"Pack of 1ltr",
+        "price":"749",
+        "img":"/assets/images/grocerypic17.png"
+    },
+
+    {
+        "groceryname":"Chitale Buffalo Ghee",
+        "description":"Pack of 500ml",
+        "price":"365",
+        "img":"/assets/images/grocerypic18.png"
+    },
+
+    {
+        "groceryname":"Parle Monaco Salted Biscuits",
+        "description":"Pack of 400gms",
+        "price":"80",
+        "img":"/assets/images/grocerypic19.jpeg"
+    },
+
+    {
+        "groceryname":"Parle Crack Jack Biscuits",
+        "description":"Pack of 400gms",
+        "price":"80",
+        "img":"/assets/images/grocerypic20.jpeg"
+    },
+
+    {
+        "groceryname":"Britannia Good Day Cookies",
+        "description":"Pack of 200mgs",
+        "price":"50",
+        "img":"/assets/images/grocerypic21.jpeg"
+    },
+
+    {
+        "groceryname":"Britannia Vita Marie Gold",
+        "description":"Pack of 163gms",
+        "price":"30",
+        "img":"/assets/images/grocerypic22.jpeg"
+    },
+
+    {
+        "groceryname":"Maggi Rich Tomato Ketchup",
+        "description":"Pack of 970gms",
+        "price":"165",
+        "img":"/assets/images/grocerypic23.jpeg"
+    },
+
+    {
+        "groceryname":"Ching's Schezwan Chutney",
+        "description":"Pack of 250gms",
+        "price":"90",
+        "img":"/assets/images/grocerypic24.jpeg"
+    },
+
+    {
+        "groceryname":"Parachute Coconut Hair Oil",
+        "description":"Pack of 1ltr",
+        "price":"390",
+        "img":"/assets/images/grocerypic25.jpeg"
+    },
+
+    {
+        "groceryname":"Parachute Jasmine Hair Oil",
+        "description":"Pack of 190ml",
+        "price":"89",
+        "img":"/assets/images/grocerypic26.jpeg"
+    },
+
+    {
+        "groceryname":"Head & Shoulder Shampoo",
+        "description":"Pack of 340ml",
+        "price":"379",
+        "img":"/assets/images/grocerypic27.jpeg"
+    },
+
+    {
+        "groceryname":"Colgate MaxFresh paste",
+        "description":"Pack of 38gms",
+        "price":"20",
+        "img":"/assets/images/grocerypic28.jpeg"
+    },
+
+    {
+        "groceryname":"Parle Premium Elaichi Rusk",
+        "description":"Pack of 182gms",
+        "price":"35",
+        "img":"/assets/images/grocerypic29.jpeg"
+    },
+
+    {
+        "groceryname":"Suhana Ambari Chilli Powder",
+        "description":"Pack of 500mgs",
+        "price":"274",
+        "img":"/assets/images/grocerypic30.jpeg"
+    },
+
+    {
+        "groceryname":"Suhana Ambari Turmeric Powder",
+        "description":"Pack of 500mgs",
+        "price":"218",
+        "img":"/assets/images/grocerypic31.png"
+    },
+
+    {
+        "groceryname":"Suhana Biryani Masala",
+        "description":"Pack of 50mgs",
+        "price":"48",
+        "img":"/assets/images/grocerypic32.png"
+    },
+
+    {
+        "groceryname":"Suhana Ambari Goda Masala",
+        "description":"Pack of 100mgs",
+        "price":"44",
+        "img":"/assets/images/grocerypic33.png"
+    },
+
+    {
+        "groceryname":"Samrat Chakki Atta",
+        "description":"Pack of 5kgs",
+        "price":"285",
+        "img":"/assets/images/grocerypic34.png"
+    },
+
+    {
+        "groceryname":"Aashirvaad Wheat Atta",
+        "description":"Pack of 10kgs",
+        "price":"479",
+        "img":"/assets/images/grocerypic35.png"
+    },
+
+    {
+        "groceryname":"Samrat Chana Besan",
+        "description":"Pack of 500mgs",
+        "price":"91",
+        "img":"/assets/images/grocerypic36.png"
+    }
+
+
+]
