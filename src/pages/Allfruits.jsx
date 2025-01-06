@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import FruitStoreCard from "../components/storecard/FruitStoreCard";
 import allfruit from '../data/Allfruits.json'
 import Header from "../components/header";
@@ -6,8 +6,12 @@ import Footer from "../components/footer";
 import { NavLink } from "react-router-dom";
 
 const Allfruits = () => {
+
+
+
   return (
     <>
+
     <Header />
       <div className="container text-center">
         <h1>Fruits & Vegetables Stores in Pune</h1>
